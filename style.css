@@ -24,10 +24,11 @@ body {
     gap: 30px;
     }
 
-.body1 {
+.container {
     display: flex;
-    background-color: #1F2937;
-    color:#e5e7eb;
+    flex-direction: column;
+    height: 100px;
+    padding: 0px 200px;
 }
 
 .footer {
